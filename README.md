@@ -1,6 +1,6 @@
 # Hi, I'm Michael 👋
 
-Computer Science student at the **University of South Florida** and junior software engineer based in the Tampa Bay area. I'm building **swxtted**, a technology solutions brand.
+Computer Science student at the **University of South Florida** and junior software engineer based in the Tampa Bay area.
 
 ### What I work on
 - 🐳 Deploying **Nginx** web servers in **Docker** on **Ubuntu**
