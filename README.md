@@ -1,6 +1,6 @@
-# Hi, I'm Michael 👋
+# Hi, I'm Michael
 
-Computer Science student at the **University of South Florida**, junior software engineer, and **government contracting specialist** based in the Tampa Bay area.
+Computer Science student at the University of South Florida, junior software engineer, and government contracting specialist based in the Tampa Bay area.
 
 ### What I work on
 - 🐳 Deploying **Nginx** web servers in **Docker** on **Ubuntu**
