@@ -1,6 +1,6 @@
 # Hi, I'm Michael 👋
 
-Computer Science student at the **University of South Florida** and junior software engineer based in the Tampa Bay area.
+Computer Science student at the **University of South Florida**, junior software engineer, and **government contracting specialist** based in the Tampa Bay area.
 
 ### What I work on
 - 🐳 Deploying **Nginx** web servers in **Docker** on **Ubuntu**
@@ -16,7 +16,13 @@ Computer Science student at the **University of South Florida** and junior softw
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 
+### Government contracting
+- Government contract management
+- Government contract administration
+- Account management (government and commercial)
+- Sales and strategic planning for federal contractors
+
 ### Find me
 🌐 [swxtted.com](https://swxtted.com) · 💼 [LinkedIn](https://www.linkedin.com/in/michael-mcgrogan-429b36399)
 
-📫 Open to software and infrastructure roles: on-site, hybrid or remote.
+📫 Open to software, infrastructure and government contracting roles: on-site, hybrid or remote.
